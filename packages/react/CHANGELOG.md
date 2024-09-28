@@ -1,5 +1,11 @@
 # @assistant-ui/react
 
+## 0.5.68
+
+### Patch Changes
+
+- 42156cf: refactor: drop ReactThreadRuntimeCore, unstable_synchronizer
+
 ## 0.5.67
 
 ### Patch Changes

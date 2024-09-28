@@ -1,5 +1,13 @@
 # @assistant-ui/react-playground
 
+## 0.0.34
+
+### Patch Changes
+
+- 42156cf: refactor: drop ReactThreadRuntimeCore, unstable_synchronizer
+- Updated dependencies [42156cf]
+  - @assistant-ui/react@0.5.68
+
 ## 0.0.33
 
 ### Patch Changes
